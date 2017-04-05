@@ -1,2 +1,3 @@
 Lorem ipsum dolor sit amet.
 Added new line.
+Added another new line.
